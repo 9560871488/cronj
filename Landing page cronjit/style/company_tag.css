@@ -1,0 +1,170 @@
+.partner_company {
+    /* Layout Properties */
+    top: 903px;
+left: 0px;
+width: 1440px;
+height: 389px;
+    /* UI Properties */
+    background: transparent url("../img/Group11323.png") 0% 0% no-repeat
+      padding-box;
+      background-size: cover;
+    opacity: 1;
+  }
+  
+  .partner_company .heading_info p {
+    padding-top: 77.5px;
+    padding-left: 456px;
+    width: 529px;
+    height: 34px;
+    /* UI Properties */
+    font: normal normal 600 28px/51px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #f3f3f3;
+    opacity: 1;
+  }
+  
+  .partner_company .description p {
+    /* Layout Properties */
+    padding-top: 25px;
+    padding-left: 273px;
+    width: 894px;
+    height: 58px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #f7f4f4;
+    opacity: 1;
+  }
+  
+  .partner_company .company_logo {
+    margin-top: 50px;
+    margin-left: 170px;
+    width: 1100px;
+    height: 55px;
+    background: transparent url("../img/Group\ 11283.png") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+  .outsource{
+    
+    background: transparent url('../img/benifit.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 1348px;
+    left: 441px;
+    width: 638px;
+    height: 46px;
+    text-align: center;
+    font: normal normal bold 28px/35px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #130f0f;
+    opacity: 1;
+  }
+  .outsource2{
+    * Layout Properties */
+    top: 1583px;
+    left: 218px;
+    width: 579px;
+    height: 211px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 19px/27px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #aaaaaa;
+    opacity: 1;
+    background: transparent linear-gradient(289deg, #565252C7 0%, #625E5E 29%, #191717E8 56%, #171616DE 100%) 0% 0% no-repeat padding-box;
+    background: size 40px;
+  }
+  .cost{
+
+    top: 3021px;
+left: 440px;
+width: 1440px;
+height: 524px;
+background: transparent url('../img/group11790.png') 0% 0% no-repeat padding-box;
+background-size: 40%;
+opacity: 1;
+  }
+  .cost1{
+      font-size: 20px;
+    
+    text-align: left;
+    font: normal normal bold 51px/68px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  .cost2{
+    top: 3303px;
+    left: 148px;
+    width: 627px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 21px/28px Gilroy ☞;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    opacity: 1;
+    
+  }
+  .cost3{
+    top: 3354px;
+    left: 148px;
+    width: 300px;
+    height: 15px;
+    background: #00D563 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+  }
+  .phone{
+    top: 6174px;
+left: -0.000244140625px;
+width: 1440px;
+height: 291px;
+background: transparent url('../img/group11876.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+background-size: 40%;
+  }
+  .phone .phone1{
+      
+    top: 6296px;
+left: 263px;
+width: 913px;
+height: 46px;
+text-align: left;
+font: normal normal bold 32px/40px Gilroy ☞;
+font-size: small;
+letter-spacing: 0px;
+color: #141010;
+opacity: 1;
+  }
+  .web.weblogo{
+    top: 1813px;
+    left: 339px;
+    width: 43px;
+    height: 49px;
+    background: transparent url('../img/group12340.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  .web {
+    * Layout Properties */
+    top: 1817px;
+    left: 400px;
+    width: 700px;
+    height: 41px;
+    text-align: left;
+    font: normal normal bold 28px/35px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }{
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 17526px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  .all{
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+  }

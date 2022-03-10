@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    
+width: 1440px;
+height: 614px;
+background: transparent url('../img/group12305.png') 0% 0% no-repeat padding-box;
+background-size: cover;
+
+opacity: 1;
+  }
+  
+  .nav_bar {
+    padding-top: 36px;
+  
+    width: 1144px;
+    height: 54px;
+    text-decoration: none;
+    color: rgb(102, 8, 8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 134px;
+    height: 54px;
+    background: transparent url("./img/") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+  .menu {
+    display: flex;
+    padding-right: 10px;
+  }
+  .menu ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu ul li a {
+    text-decoration: none;
+    color: rgb(14, 1, 1);
+    font: normal normal medium 17px/33px Gilroy ☞;
+    letter-spacing: 0px;
+    padding-left: 50px;
+    opacity: 1;
+  }
+  
+  .contact {
+    width: 142px;
+    height: 40px;
+    background: #57d372 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+  }
+  
+  .header_p1 {
+      text-align: center;
+    color: #ffffff;
+    margin-top: 201.77px;
+    font: normal normal bold 51px/68px Gilroy ☞;
+    letter-spacing: 0px;
+    opacity: 1;
+  }
+  
+ 
+  
+  .header_p2 {
+    top: 358px;
+    right: 479px;
+    width: 482px;
+    height: 29px;
+    text-align: center;
+    font: normal normal medium 21px/27px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+  
+  .header_email_box {
+    /* Layout Properties */
+    position: absolute;
+    top: 532px;
+    left: 148px;
+    width: 435px;
+    height: 80px;
+    /* UI Properties */
+    background: #0a8f32 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+  }
+  
+  .header_p3 {
+    /* Layout Properties */
+  
+    padding-left: 31.45px;
+    padding-top: 27.5px;
+    width: 317px;
+    height: 25px;
+    /* UI Properties */
+  
+    font: normal normal 600 22px/26px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+  }
+  
+  .email_icon {
+    /* Layout Properties */
+    padding-top: -30px;
+    padding-left: 370px;
+    width: 30px;
+    height: 22px;
+    /* UI Properties */
+    background: transparent url("../img/contact.png") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+  
